@@ -1,0 +1,13 @@
+output_path: reportOutput
+probabilities_file_paths:
+- /test_results/GoogleNet-200525-7classes-run-1.csv
+- /test_results/InceptionV3-200525-7classes-run-1.csv
+- /test_results/MobileNetV2-200525-7classes-run-1.csv
+- /test_results/ResNet101-200525-7classes-run-1.csv
+- /test_results/ResNet18-200525-7classes-run-1.csv
+- /test_results/ResNet50-200525-7classes-run-1.csv
+- /test_results/SqueezeNet-200525-7classes-run-1.csv
+- /test_results/ViT_base_patch16_224-200525-7classes-run-1.csv
+- /test_results/Xception-200525-7classes-run-1.csv
+testing_images_path: 7classes/test
+training_images_path: 7classes/train

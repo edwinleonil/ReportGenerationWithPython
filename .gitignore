@@ -1,0 +1,8 @@
+# List of untracked files to ignore
+output/ 
+reportgen_env/
+prob_tables/
+reportOutput/
+images/
+prototype.ipynb
+report_template_old.docx

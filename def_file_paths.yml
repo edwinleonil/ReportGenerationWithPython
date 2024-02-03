@@ -1,0 +1,20 @@
+# paths to be used when generating report manually
+training_dataPath: 'training'
+testing_dataPath: 'test'
+prob_Path: 'PredicProb_xception_M1.csv'
+output_path: 'reportOutput/output.docx'
+output_fileName: '/output.docx'
+
+
+# relative paths for the app
+dataset_split_image1: 'images/data_split1.png'
+dataset_split_image2: 'images/data_split2.png'
+cm_image: 'images/cm.png'
+rpf1_image: 'images/rpf1.png'
+pfmea_image: 'images/pfmea.png'
+missclassification_result_image: 'images/costmatrixresult.png'
+ccConfidence_image: 'images/CCconfidence.png'
+icConfidence_image: 'images/ICconfidence.png'
+costMatrixDirPath: 'tables/'
+template_path: 'report_template.docx'
+
